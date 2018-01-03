@@ -176,9 +176,9 @@ session_start();
 		in a confirmation email, we look forward to see you soon. In the
 		meantime, if you have any questions, feel free to contact us</p>
 		<p>
-		<i class="icon-phone" style="font-size:24px"></i> <span class="i-name fontgrey">Phone</span><span class="i-code">&emsp; 60328951744</span><br>
-        <i class="icon-fax" style="font-size:24px"></i> <span class="i-name fontgrey">Fax</span><span class="i-code"> &emsp;&emsp;60328951744</span><br>
-        <i class="icon-mail-alt"style="font-size:24px"> </i> <span class="i-name fontgrey">Email</span><span class="i-code">&emsp; nicestuff@hotmail.com</span>
+		<i class="icon-phone" style="font-size:24px"></i> <span class="i-name fontgrey">Phone</span><span class="i-code">&emsp; +8801972419696</span><br>
+        <i class="icon-fax" style="font-size:24px"></i> <span class="i-name fontgrey">Fax</span><span class="i-code"> &emsp;&emsp;+8801972419696</span><br>
+        <i class="icon-mail-alt"style="font-size:24px"> </i> <span class="i-name fontgrey">Email</span><span class="i-code">&emsp; redikod@gmail.com</span>
 		</p><hr>
 		<div class="row">
 			<div class="large-12 columns" >
